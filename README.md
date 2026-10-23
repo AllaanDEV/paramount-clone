@@ -34,10 +34,16 @@ O objetivo foi praticar a estruturação de páginas com HTML e a estilização 
     title="CSS3"
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
   />
+  <img
+    alt="JavaScript"
+    title="JavaScript"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  />
 </div>
 
 - **HTML5:** estruturação e organização do conteúdo da página.
 - **CSS3:** estilização dos elementos, layout e responsividade.
+- **JavaScript:** implementação de funcionalidades e interações da página.
 
 ## Funcionalidades
 
